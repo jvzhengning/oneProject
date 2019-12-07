@@ -1,0 +1,16 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: max-age=0
+Connection: keep-alive
+Content-Length: 1357
+Content-Type: application/x-www-form-urlencoded
+Cookie: kg_mid=bd624a467e2db1911811d0875899d056; kg_dfid=2TEmPW1hssCN0S5xKS1cXBAZ; kg_dfid_collect=d41d8cd98f00b204e9800998ecf8427e; _WCMID=164002205de89f0d5969d3d3; Hm_lvt_aedee6983d4cfc62f509129360d6bb3d=1575526158,1575526416,1575531440,1575532163; kg_mid_temp=bd624a467e2db1911811d0875899d056; Hm_lpvt_aedee6983d4cfc62f509129360d6bb3d=1575532168
+Host: webcollects.kugou.com
+Origin: https://www.kugou.com
+Referer: https://www.kugou.com/song/
+Sec-Fetch-Mode: nested-navigate
+Sec-Fetch-Site: same-site
+Sec-Fetch-User: ?1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
